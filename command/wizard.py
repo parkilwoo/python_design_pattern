@@ -1,4 +1,4 @@
-
+from stock_exchange.order import Order
 class Wizard:
     """
     인스톨러를 구현한 클래스
